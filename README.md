@@ -2,7 +2,7 @@
 
 This **Accurate Weather App** provides real-time weather updates for any location worldwide. Built using HTML, CSS, JavaScript, and a weather API, it features a modern, responsive design that works seamlessly across all devices.
 
-![Weather App Screenshot]()
+![Weather App Screenshot](Screenshot_2024_11_29-1)
 
 ---
 
