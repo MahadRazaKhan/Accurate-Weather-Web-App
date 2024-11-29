@@ -6,12 +6,12 @@ This **Accurate Weather App** provides real-time weather updates for any locatio
 
 ---
 
-## 🌟 Features
+## Features
 
-- 🌍 **Global Weather**: Get weather updates for any city around the world.
-- 📱 **Responsive Design**: Optimized for desktop, tablet, and mobile screens.
-- 🌡️ **Real-Time Data**: Fetches live weather data using a weather API.
-- 🎨 **User-Friendly UI**: Minimalistic and modern interface.
+- **Global Weather**: Get weather updates for any city around the world.
+- **Responsive Design**: Optimized for desktop, tablet, and mobile screens.
+- **Real-Time Data**: Fetches live weather data using a weather API.
+- **User-Friendly UI**: Minimalistic and modern interface.
 
 ---
 
@@ -19,7 +19,7 @@ This **Accurate Weather App** provides real-time weather updates for any locatio
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **HTML5** for structuring the app.
 - **CSS3** for styling and responsive design.
@@ -27,16 +27,3 @@ This **Accurate Weather App** provides real-time weather updates for any locatio
 - **Weather API** for real-time weather data.
 
 ---
-
-## 📂 Project Structure
-
-```plaintext
-📁 project-directory
-├── 📁 images
-│   ├── weather-app-screenshot.png
-│   └── weather-app-demo.gif
-├── 📁 css
-│   └── styles.css
-├── 📁 js
-│   └── script.js
-└── index.html
