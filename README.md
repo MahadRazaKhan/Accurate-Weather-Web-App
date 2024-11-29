@@ -18,7 +18,7 @@ This **Accurate Weather App** provides real-time weather updates for any locatio
 ## 📸 Demo
 
 Check out the app in action!  
-![Weather App Demo](https://forums.synfig.org/uploads/default/original/2X/3/31d749625faa93271be23874d416f9be755b7cb9.gif)
+![Weather App Demo](https://cdn.pixabay.com/animation/2023/11/11/18/15/18-15-55-407_512.gif)
 
 ---
 
